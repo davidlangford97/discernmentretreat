@@ -12,27 +12,19 @@ var images = ["1280_00.159.223_PS1.jpg",
               "P6060243.jpg"
               ];
 
-var sorted_images = ["1280_00.159.223_PS1.jpg",
-               //     "1280_14ChrismMassFW20.jpg",
-               //     "1280_holythursday.jpg",
-               //     "1280_imgdavincilastsupper.jpg",
-                    "untitled-63.jpg",
-                    "untitled-48.jpg",
-                    "P6060296.jpg",
-                    "P6060243.jpg"
-                    ];
+var sorted_images = images;
 
-var random_bg = Math.trunc(Math.random()*sorted_images.length);
+var random_bg = Math.trunc(Math.random()*images.length);
 
-for (var i = 0; i < sorted_images.length; i++)
+for (var i = 0; i < images.length; i++)
 {
-  if (i+random_bg < sorted_images.length)
+  if (i+random_bg < images.length)
   {
     sorted_images[i] = images[i + random_bg];
   }
   else
   {
-    sorted_images[i] = images[i + random_bg - sorted_images.length];
+    sorted_images[i] = images[i + random_bg - images.length];
   }
 }
 
