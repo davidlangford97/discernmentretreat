@@ -7,17 +7,16 @@
 */
 
 @font-face {
-	font-family: 'Copperplate Gothic Light fart';
+	font-family: 'Copperplate Gothic Lights';
 	src: 
-		url('Copperplate Gothic Light Regular.ttf') 
+      url('Copperplate Gothic Light Regular.ttf') 
 		format('truetype');
 }
-
 
 body, html {
    margin: 0;
    padding: 0;
-   font-family: Copperplate, "Copperplate Gothic Light fart";
+   font-family: Copperplate, "Copperplate Gothic Lights";
    color: white;
    text-align: center;
 }
