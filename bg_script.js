@@ -2,28 +2,32 @@
 
 //Add the list of images
 
-var images = ["1280_e6c5440d25aa40c598c2a3c5c7cd15af.jpg",
-              "1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
+var images = ["1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
               "1280_00.159.220_PS2.jpg",
               "1280_00.159.223_PS1.jpg",
               "1280_1ea2068d15476c63af1a4ef602d03f88.jpg",
-              "1280_IMG_20190219_123937978_BURST000_COVER.jpg",
               "1280_14ChrismMassFW20.jpg",
               "1280_FWchrismMass.jpg",
               "1280_holythursday.jpg",
               "1280_imgdavincilastsupper.jpg",
+              "untitled-63.jpg",
+              "untitled-48.jpg",
+              "P6060296.jpg",
+              "P6060243.jpg"
               ];
 
-var sorted_images = ["1280_1ea2068d15476c63af1a4ef602d03f88.jpg",
-                    "1280_e6c5440d25aa40c598c2a3c5c7cd15af.jpg",
+var sorted_images = ["1280_e6c5440d25aa40c598c2a3c5c7cd15af.jpg",
                     "1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
                     "1280_00.159.220_PS2.jpg",
                     "1280_00.159.223_PS1.jpg",
-                    "1280_IMG_20190219_123937978_BURST000_COVER.jpg",
                     "1280_14ChrismMassFW20.jpg",
                     "1280_FWchrismMass.jpg",
                     "1280_holythursday.jpg",
                     "1280_imgdavincilastsupper.jpg",
+                    "untitled-63.jpg",
+                    "untitled-48.jpg",
+                    "P6060296.jpg",
+                    "P6060243.jpg"
                     ];
 
 var random_bg = Math.trunc(Math.random()*sorted_images.length);
