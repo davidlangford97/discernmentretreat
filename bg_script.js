@@ -2,12 +2,8 @@
 
 //Add the list of images
 
-var images = ["1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
-              "1280_00.159.220_PS2.jpg",
-              "1280_00.159.223_PS1.jpg",
-              "1280_1ea2068d15476c63af1a4ef602d03f88.jpg",
+var images = ["1280_00.159.223_PS1.jpg",
               "1280_14ChrismMassFW20.jpg",
-              "1280_FWchrismMass.jpg",
               "1280_holythursday.jpg",
               "1280_imgdavincilastsupper.jpg",
               "untitled-63.jpg",
@@ -16,12 +12,8 @@ var images = ["1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
               "P6060243.jpg"
               ];
 
-var sorted_images = ["1280_e6c5440d25aa40c598c2a3c5c7cd15af.jpg",
-                    "1280_Antoni_Estruch-_Sant_Sopar-_Museu_dArt_de_Sabadell.jpg",
-                    "1280_00.159.220_PS2.jpg",
-                    "1280_00.159.223_PS1.jpg",
+var sorted_images = ["1280_00.159.223_PS1.jpg",
                     "1280_14ChrismMassFW20.jpg",
-                    "1280_FWchrismMass.jpg",
                     "1280_holythursday.jpg",
                     "1280_imgdavincilastsupper.jpg",
                     "untitled-63.jpg",
