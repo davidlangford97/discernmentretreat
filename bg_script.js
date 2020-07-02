@@ -9,8 +9,7 @@ var images = ["1280_00.159.223_PS1.jpg",
               "untitled-63.jpg",
               "untitled-48.jpg",
               "P6060296.jpg",
-              "P6060243.jpg",
-              "Tissot - Consummatum Est - Brooklyn Museum.jpg"
+              "P6060243.jpg"
               ];
 
 function shuffle(array) {
