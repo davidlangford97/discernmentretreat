@@ -3,9 +3,9 @@
 //Add the list of images
 
 var images = ["1280_00.159.223_PS1.jpg",
-              "1280_14ChrismMassFW20.jpg",
-              "1280_holythursday.jpg",
-              "1280_imgdavincilastsupper.jpg",
+            //  "1280_14ChrismMassFW20.jpg",         - commenting these images out so that only the ordination photos appear on the site
+            //  "1280_holythursday.jpg",             - edit made 7/2/2020 - dml
+            //  "1280_imgdavincilastsupper.jpg",
               "untitled-63.jpg",
               "untitled-48.jpg",
               "P6060296.jpg",
@@ -13,9 +13,9 @@ var images = ["1280_00.159.223_PS1.jpg",
               ];
 
 var sorted_images = ["1280_00.159.223_PS1.jpg",
-                    "1280_14ChrismMassFW20.jpg",
-                    "1280_holythursday.jpg",
-                    "1280_imgdavincilastsupper.jpg",
+               //     "1280_14ChrismMassFW20.jpg",
+               //     "1280_holythursday.jpg",
+               //     "1280_imgdavincilastsupper.jpg",
                     "untitled-63.jpg",
                     "untitled-48.jpg",
                     "P6060296.jpg",
